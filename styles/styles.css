@@ -1,0 +1,62 @@
+body {
+	background-color: #fff;
+}
+
+#buffer {
+	height:30px;
+	width:900px;
+}
+
+#wrapper {
+	width:896px;
+	height:650px;
+	margin: 0 auto;
+	border: solid 2px #000;
+}
+
+#headerImage {
+	width:896px;
+	height:500px;
+}
+
+#headline {
+	height:100px;
+	width:900px;
+}
+
+h1 {
+	padding:20px;
+	margin:0;
+	color: #000;
+	font-family:Georgia;
+	font-size:35pt;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+	font-family:Georgia;
+	font-size:20pt;
+}
+
+nav {
+	height:50px;
+	width:900px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height:100%;
+}
+
+li {
+	display:inline;
+	float:left;
+	text-align: center;
+	width:33%;
+	height:100%;
+	position: relative;
+}
